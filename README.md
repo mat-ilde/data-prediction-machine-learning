@@ -5,9 +5,9 @@ Independent variable X: Outside Air Temperature
 
 Dependent variable Y: Overall daily revenue generated in dollars
   
-2- The second model is based in Linear regression as well, but this one will predict the impact of increasing the vehicle horsepower(HP) on fuel economy(Mileage Per Gallon(MPG).
+2- The second model is based on Linear regression as well, but this one will predict, the impact of increasing the vehicle horsepower(HP) on fuel economy(Mileage Per Gallon(MPG).
 
-Independent variable X: Vehicle Horse Power
+Independent variable X: Vehicle HorsePower
 
 Dependent variable Y: Mileage per Gallon(MPG)
 
