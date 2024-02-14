@@ -1,4 +1,4 @@
-# data-predictions-lr
+# data-predictions-machine-learning
 1- I created a first model that could predict the daily revenue in dollars based on the outside air temperature(deg C). In this case, I decided a Linear Regression model might be a good candidate to solve this problem.
 
 Independent variable X: Outside Air Temperature
