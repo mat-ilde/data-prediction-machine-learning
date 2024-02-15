@@ -5,7 +5,7 @@
 
 ###### Dependent variable Y: Overall daily revenue generated in dollars
   
-2- The second model is based on Linear regression as well, but this one will predict, the impact of increasing the vehicle horsepower(HP) on fuel economy(Mileage Per Gallon(MPG).
+2- The second model is based on Linear regression and it will predict, the impact of increasing the vehicle horsepower(HP) on fuel economy(Mileage Per Gallon(MPG).
 
 ###### Independent variable X: Vehicle HorsePower
 
@@ -17,3 +17,8 @@
 
 ###### Dependent variable Y: Salary per year $
 
+4- The fourth model is based on Polynomial regression. In this case, I'll create a model to estimate the cost of goods sold as they vary the production volume(number of units produced).
+
+###### Independent variable X: Number of units
+
+###### Dependent variable Y: Manufacturing cost
