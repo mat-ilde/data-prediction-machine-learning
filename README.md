@@ -22,3 +22,9 @@
 ###### Independent variable X: Number of units
 
 ###### Dependent variable Y: Manufacturing cost
+
+5- The fifth model is based on Multiple linear regression. In this case, I`ll predict the S&P 500 stock based on interest rates and employment numbers
+
+###### Independent variable X: interest rates, employment numbers
+
+###### Dependent variable Y: S&P 500 stock
