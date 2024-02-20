@@ -28,3 +28,9 @@
 ###### Independent variable X: interest rates, employment numbers
 
 ###### Dependent variable Y: S&P 500 stock
+
+6- The sixth model is based on Logistic regression. In this case, I'll analyze the customer data to predict which customer clicks on the advertisement.
+
+###### Independent variable X: name, e-mail, country, time on Facebook, estimated salary(derived from other parameters)
+
+###### Dependent variable Y: click(1: customer clicked on Ad, 0: customer did not click on the Ad)
