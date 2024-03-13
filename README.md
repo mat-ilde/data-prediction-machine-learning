@@ -34,3 +34,9 @@
 ###### Independent variable X: name, e-mail, country, time on Facebook, estimated salary(derived from other parameters)
 
 ###### Dependent variable Y: click(1: customer clicked on Ad, 0: customer did not click on the Ad)
+
+7- The sixth model is based on different classification models. In this case, I'll predict the Iris flower
+
+###### Independent variable X: flowers "Characteristics"
+
+###### Dependent variable Y: flower class
